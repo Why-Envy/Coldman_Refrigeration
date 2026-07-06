@@ -1,0 +1,1 @@
+The live design uses the provided ColdMan logo locally and remote royalty-free style photo URLs for industrial, HVAC, cold chain and technical imagery. Replace the remote URLs in the HTML with your own business photos whenever available.
